@@ -96,4 +96,4 @@ Tom Antony's GPA Calculator for Fall 2024 and Spring 2025.
 
     print(f"Letter Grade: {finalLetterGrade}")
 
-calculate_average(labGrades, assignGrades, midtermExam, finalExam) 
+    calculate_average(labGrades, assignGrades, midtermExam, finalExam) 
